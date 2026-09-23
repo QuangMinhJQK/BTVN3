@@ -1,0 +1,362 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN"
+  "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg xmlns:xlink="http://www.w3.org/1999/xlink" width="575.59625pt" height="292.6pt" viewBox="0 0 575.59625 292.6" xmlns="http://www.w3.org/2000/svg" version="1.1">
+ <metadata>
+  <rdf:RDF xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+   <cc:Work>
+    <dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
+    <dc:date>2026-09-23T19:14:15.598496</dc:date>
+    <dc:format>image/svg+xml</dc:format>
+    <dc:creator>
+     <cc:Agent>
+      <dc:title>Matplotlib v3.10.0, https://matplotlib.org/</dc:title>
+     </cc:Agent>
+    </dc:creator>
+   </cc:Work>
+  </rdf:RDF>
+ </metadata>
+ <defs>
+  <style type="text/css">*{stroke-linejoin: round; stroke-linecap: butt}</style>
+ </defs>
+ <g id="figure_1">
+  <g id="patch_1">
+   <path d="M 0 292.6 
+L 575.59625 292.6 
+L 575.59625 0 
+L 0 0 
+L 0 292.6 
+z
+" style="fill: none"/>
+  </g>
+  <g id="axes_1">
+   <g id="patch_2">
+    <path d="M 16.87625 256.87 
+L 574.87625 256.87 
+L 574.87625 10.47 
+L 16.87625 10.47 
+L 16.87625 256.87 
+z
+" style="fill: none"/>
+   </g>
+   <g id="matplotlib.axis_1">
+    <g id="xtick_1">
+     <g id="line2d_1">
+      <defs>
+       <path id="m71709532cc" d="M 0 0 
+L 0 2 
+" style="stroke: #000000; stroke-width: 0.6"/>
+      </defs>
+      <g>
+       <use xlink:href="#m71709532cc" x="42.239886" y="256.87" style="stroke: #000000; stroke-width: 0.6"/>
+      </g>
+     </g>
+     <g id="text_1">
+      <text style="font-size: 7px; font-family: 'Helvetica', 'Helvetica Neue', 'Arial', 'Nimbus Sans', 'Liberation Sans', 'DejaVu Sans', sans-serif" transform="translate(34.437847 281.576189) rotate(-45)">2021-01</text>
+     </g>
+    </g>
+    <g id="xtick_2">
+     <g id="line2d_2">
+      <g>
+       <use xlink:href="#m71709532cc" x="87.292077" y="256.87" style="stroke: #000000; stroke-width: 0.6"/>
+      </g>
+     </g>
+     <g id="text_2">
+      <text style="font-size: 7px; font-family: 'Helvetica', 'Helvetica Neue', 'Arial', 'Nimbus Sans', 'Liberation Sans', 'DejaVu Sans', sans-serif" transform="translate(79.490037 281.576189) rotate(-45)">2021-07</text>
+     </g>
+    </g>
+    <g id="xtick_3">
+     <g id="line2d_3">
+      <g>
+       <use xlink:href="#m71709532cc" x="133.090988" y="256.87" style="stroke: #000000; stroke-width: 0.6"/>
+      </g>
+     </g>
+     <g id="text_3">
+      <text style="font-size: 7px; font-family: 'Helvetica', 'Helvetica Neue', 'Arial', 'Nimbus Sans', 'Liberation Sans', 'DejaVu Sans', sans-serif" transform="translate(125.288949 281.576189) rotate(-45)">2022-01</text>
+     </g>
+    </g>
+    <g id="xtick_4">
+     <g id="line2d_4">
+      <g>
+       <use xlink:href="#m71709532cc" x="178.143178" y="256.87" style="stroke: #000000; stroke-width: 0.6"/>
+      </g>
+     </g>
+     <g id="text_4">
+      <text style="font-size: 7px; font-family: 'Helvetica', 'Helvetica Neue', 'Arial', 'Nimbus Sans', 'Liberation Sans', 'DejaVu Sans', sans-serif" transform="translate(170.341139 281.576189) rotate(-45)">2022-07</text>
+     </g>
+    </g>
+    <g id="xtick_5">
+     <g id="line2d_5">
+      <g>
+       <use xlink:href="#m71709532cc" x="223.94209" y="256.87" style="stroke: #000000; stroke-width: 0.6"/>
+      </g>
+     </g>
+     <g id="text_5">
+      <text style="font-size: 7px; font-family: 'Helvetica', 'Helvetica Neue', 'Arial', 'Nimbus Sans', 'Liberation Sans', 'DejaVu Sans', sans-serif" transform="translate(216.140051 281.576189) rotate(-45)">2023-01</text>
+     </g>
+    </g>
+    <g id="xtick_6">
+     <g id="line2d_6">
+      <g>
+       <use xlink:href="#m71709532cc" x="268.99428" y="256.87" style="stroke: #000000; stroke-width: 0.6"/>
+      </g>
+     </g>
+     <g id="text_6">
+      <text style="font-size: 7px; font-family: 'Helvetica', 'Helvetica Neue', 'Arial', 'Nimbus Sans', 'Liberation Sans', 'DejaVu Sans', sans-serif" transform="translate(261.192241 281.576189) rotate(-45)">2023-07</text>
+     </g>
+    </g>
+    <g id="xtick_7">
+     <g id="line2d_7">
+      <g>
+       <use xlink:href="#m71709532cc" x="314.793192" y="256.87" style="stroke: #000000; stroke-width: 0.6"/>
+      </g>
+     </g>
+     <g id="text_7">
+      <text style="font-size: 7px; font-family: 'Helvetica', 'Helvetica Neue', 'Arial', 'Nimbus Sans', 'Liberation Sans', 'DejaVu Sans', sans-serif" transform="translate(306.991152 281.576189) rotate(-45)">2024-01</text>
+     </g>
+    </g>
+    <g id="xtick_8">
+     <g id="line2d_8">
+      <g>
+       <use xlink:href="#m71709532cc" x="360.094289" y="256.87" style="stroke: #000000; stroke-width: 0.6"/>
+      </g>
+     </g>
+     <g id="text_8">
+      <text style="font-size: 7px; font-family: 'Helvetica', 'Helvetica Neue', 'Arial', 'Nimbus Sans', 'Liberation Sans', 'DejaVu Sans', sans-serif" transform="translate(352.29225 281.576189) rotate(-45)">2024-07</text>
+     </g>
+    </g>
+    <g id="xtick_9">
+     <g id="line2d_9">
+      <g>
+       <use xlink:href="#m71709532cc" x="405.893201" y="256.87" style="stroke: #000000; stroke-width: 0.6"/>
+      </g>
+     </g>
+     <g id="text_9">
+      <text style="font-size: 7px; font-family: 'Helvetica', 'Helvetica Neue', 'Arial', 'Nimbus Sans', 'Liberation Sans', 'DejaVu Sans', sans-serif" transform="translate(398.091161 281.576189) rotate(-45)">2025-01</text>
+     </g>
+    </g>
+    <g id="xtick_10">
+     <g id="line2d_10">
+      <g>
+       <use xlink:href="#m71709532cc" x="450.945391" y="256.87" style="stroke: #000000; stroke-width: 0.6"/>
+      </g>
+     </g>
+     <g id="text_10">
+      <text style="font-size: 7px; font-family: 'Helvetica', 'Helvetica Neue', 'Arial', 'Nimbus Sans', 'Liberation Sans', 'DejaVu Sans', sans-serif" transform="translate(443.143351 281.576189) rotate(-45)">2025-07</text>
+     </g>
+    </g>
+    <g id="xtick_11">
+     <g id="line2d_11">
+      <g>
+       <use xlink:href="#m71709532cc" x="496.744302" y="256.87" style="stroke: #000000; stroke-width: 0.6"/>
+      </g>
+     </g>
+     <g id="text_11">
+      <text style="font-size: 7px; font-family: 'Helvetica', 'Helvetica Neue', 'Arial', 'Nimbus Sans', 'Liberation Sans', 'DejaVu Sans', sans-serif" transform="translate(488.942263 281.576189) rotate(-45)">2026-01</text>
+     </g>
+    </g>
+    <g id="xtick_12">
+     <g id="line2d_12">
+      <g>
+       <use xlink:href="#m71709532cc" x="541.796493" y="256.87" style="stroke: #000000; stroke-width: 0.6"/>
+      </g>
+     </g>
+     <g id="text_12">
+      <text style="font-size: 7px; font-family: 'Helvetica', 'Helvetica Neue', 'Arial', 'Nimbus Sans', 'Liberation Sans', 'DejaVu Sans', sans-serif" transform="translate(533.994453 281.576189) rotate(-45)">2026-07</text>
+     </g>
+    </g>
+    <g id="text_13">
+     <text style="font-size: 8px; font-family: 'Helvetica', 'Helvetica Neue', 'Arial', 'Nimbus Sans', 'Liberation Sans', 'DejaVu Sans', sans-serif; text-anchor: middle" x="295.87625" y="290.286202" transform="rotate(-0 295.87625 290.286202)">Month</text>
+    </g>
+   </g>
+   <g id="matplotlib.axis_2">
+    <g id="ytick_1">
+     <g id="line2d_13">
+      <path d="M 16.87625 248.220285 
+L 574.87625 248.220285 
+" clip-path="url(#p7b34f8f45c)" style="fill: none; stroke: #b0b0b0; stroke-opacity: 0.25; stroke-width: 0.8; stroke-linecap: square"/>
+     </g>
+     <g id="line2d_14">
+      <defs>
+       <path id="m809c420d1c" d="M 0 0 
+L -2 0 
+" style="stroke: #000000; stroke-width: 0.6"/>
+      </defs>
+      <g>
+       <use xlink:href="#m809c420d1c" x="16.87625" y="248.220285" style="stroke: #000000; stroke-width: 0.6"/>
+      </g>
+     </g>
+     <g id="text_14">
+      <text style="font-size: 7px; font-family: 'Helvetica', 'Helvetica Neue', 'Arial', 'Nimbus Sans', 'Liberation Sans', 'DejaVu Sans', sans-serif; text-anchor: end" x="13.87625" y="250.725519" transform="rotate(-0 13.87625 250.725519)">0</text>
+     </g>
+    </g>
+    <g id="ytick_2">
+     <g id="line2d_15">
+      <path d="M 16.87625 205.715541 
+L 574.87625 205.715541 
+" clip-path="url(#p7b34f8f45c)" style="fill: none; stroke: #b0b0b0; stroke-opacity: 0.25; stroke-width: 0.8; stroke-linecap: square"/>
+     </g>
+     <g id="line2d_16">
+      <g>
+       <use xlink:href="#m809c420d1c" x="16.87625" y="205.715541" style="stroke: #000000; stroke-width: 0.6"/>
+      </g>
+     </g>
+     <g id="text_15">
+      <text style="font-size: 7px; font-family: 'Helvetica', 'Helvetica Neue', 'Arial', 'Nimbus Sans', 'Liberation Sans', 'DejaVu Sans', sans-serif; text-anchor: end" x="13.87625" y="208.220775" transform="rotate(-0 13.87625 208.220775)">1</text>
+     </g>
+    </g>
+    <g id="ytick_3">
+     <g id="line2d_17">
+      <path d="M 16.87625 163.210797 
+L 574.87625 163.210797 
+" clip-path="url(#p7b34f8f45c)" style="fill: none; stroke: #b0b0b0; stroke-opacity: 0.25; stroke-width: 0.8; stroke-linecap: square"/>
+     </g>
+     <g id="line2d_18">
+      <g>
+       <use xlink:href="#m809c420d1c" x="16.87625" y="163.210797" style="stroke: #000000; stroke-width: 0.6"/>
+      </g>
+     </g>
+     <g id="text_16">
+      <text style="font-size: 7px; font-family: 'Helvetica', 'Helvetica Neue', 'Arial', 'Nimbus Sans', 'Liberation Sans', 'DejaVu Sans', sans-serif; text-anchor: end" x="13.87625" y="165.716031" transform="rotate(-0 13.87625 165.716031)">2</text>
+     </g>
+    </g>
+    <g id="ytick_4">
+     <g id="line2d_19">
+      <path d="M 16.87625 120.706053 
+L 574.87625 120.706053 
+" clip-path="url(#p7b34f8f45c)" style="fill: none; stroke: #b0b0b0; stroke-opacity: 0.25; stroke-width: 0.8; stroke-linecap: square"/>
+     </g>
+     <g id="line2d_20">
+      <g>
+       <use xlink:href="#m809c420d1c" x="16.87625" y="120.706053" style="stroke: #000000; stroke-width: 0.6"/>
+      </g>
+     </g>
+     <g id="text_17">
+      <text style="font-size: 7px; font-family: 'Helvetica', 'Helvetica Neue', 'Arial', 'Nimbus Sans', 'Liberation Sans', 'DejaVu Sans', sans-serif; text-anchor: end" x="13.87625" y="123.211288" transform="rotate(-0 13.87625 123.211288)">3</text>
+     </g>
+    </g>
+    <g id="ytick_5">
+     <g id="line2d_21">
+      <path d="M 16.87625 78.201309 
+L 574.87625 78.201309 
+" clip-path="url(#p7b34f8f45c)" style="fill: none; stroke: #b0b0b0; stroke-opacity: 0.25; stroke-width: 0.8; stroke-linecap: square"/>
+     </g>
+     <g id="line2d_22">
+      <g>
+       <use xlink:href="#m809c420d1c" x="16.87625" y="78.201309" style="stroke: #000000; stroke-width: 0.6"/>
+      </g>
+     </g>
+     <g id="text_18">
+      <text style="font-size: 7px; font-family: 'Helvetica', 'Helvetica Neue', 'Arial', 'Nimbus Sans', 'Liberation Sans', 'DejaVu Sans', sans-serif; text-anchor: end" x="13.87625" y="80.706544" transform="rotate(-0 13.87625 80.706544)">4</text>
+     </g>
+    </g>
+    <g id="ytick_6">
+     <g id="line2d_23">
+      <path d="M 16.87625 35.696565 
+L 574.87625 35.696565 
+" clip-path="url(#p7b34f8f45c)" style="fill: none; stroke: #b0b0b0; stroke-opacity: 0.25; stroke-width: 0.8; stroke-linecap: square"/>
+     </g>
+     <g id="line2d_24">
+      <g>
+       <use xlink:href="#m809c420d1c" x="16.87625" y="35.696565" style="stroke: #000000; stroke-width: 0.6"/>
+      </g>
+     </g>
+     <g id="text_19">
+      <text style="font-size: 7px; font-family: 'Helvetica', 'Helvetica Neue', 'Arial', 'Nimbus Sans', 'Liberation Sans', 'DejaVu Sans', sans-serif; text-anchor: end" x="13.87625" y="38.2018" transform="rotate(-0 13.87625 38.2018)">5</text>
+     </g>
+    </g>
+    <g id="text_20">
+     <text style="font-size: 8px; font-family: 'Helvetica', 'Helvetica Neue', 'Arial', 'Nimbus Sans', 'Liberation Sans', 'DejaVu Sans', sans-serif; text-anchor: middle" x="6.393594" y="133.67" transform="rotate(-90 6.393594 133.67)">FEDFUNDS</text>
+    </g>
+   </g>
+   <g id="line2d_25">
+    <path d="M 42.239886 244.394858 
+L 49.956007 244.819905 
+L 56.925407 245.244953 
+L 64.641528 245.244953 
+L 72.108742 245.67 
+L 79.824863 244.819905 
+L 87.292077 243.96981 
+L 95.008198 244.394858 
+L 102.724319 244.819905 
+L 110.191532 244.819905 
+L 117.907653 244.819905 
+L 125.374867 244.819905 
+L 133.090988 244.819905 
+L 140.807109 244.819905 
+L 147.776509 239.719336 
+L 155.49263 234.193719 
+L 162.959844 215.491632 
+L 170.675965 196.789545 
+L 178.143178 176.812315 
+L 185.859299 149.184231 
+L 193.57542 139.40814 
+L 201.042634 117.305674 
+L 208.758755 87.552353 
+L 216.225969 73.950835 
+L 223.94209 64.174744 
+L 231.658211 53.973605 
+L 238.627611 50.573226 
+L 246.343731 42.922372 
+L 253.810945 33.146281 
+L 261.527066 32.296186 
+L 268.99428 30.595996 
+L 276.710401 21.67 
+L 284.426522 21.67 
+L 291.893736 21.67 
+L 299.609857 21.67 
+L 307.077071 21.67 
+L 314.793192 21.67 
+L 322.509313 21.67 
+L 329.727619 21.67 
+L 337.44374 21.67 
+L 344.910954 21.67 
+L 352.627075 21.67 
+L 360.094289 21.67 
+L 367.81041 21.67 
+L 375.526531 30.170949 
+L 382.993745 42.922372 
+L 390.709866 50.998273 
+L 398.17708 57.799032 
+L 405.893201 64.174744 
+L 413.609322 64.174744 
+L 420.578721 64.174744 
+L 428.294842 64.174744 
+L 435.762056 64.174744 
+L 443.478177 64.174744 
+L 450.945391 64.174744 
+L 458.661512 64.174744 
+L 466.377633 68.850266 
+L 481.560968 83.301879 
+L 489.028181 90.102638 
+L 496.744302 93.503017 
+L 504.460423 93.503017 
+L 511.429823 93.503017 
+L 519.145944 93.503017 
+L 526.613158 93.928065 
+L 534.329279 93.928065 
+L 541.796493 93.928065 
+L 549.512614 93.928065 
+" clip-path="url(#p7b34f8f45c)" style="fill: none; stroke: #d6372e; stroke-width: 1.5; stroke-linecap: square"/>
+   </g>
+   <g id="patch_3">
+    <path d="M 16.87625 256.87 
+L 16.87625 10.47 
+" style="fill: none; stroke: #000000; stroke-width: 0.5; stroke-linejoin: miter; stroke-linecap: square"/>
+   </g>
+   <g id="patch_4">
+    <path d="M 16.87625 256.87 
+L 574.87625 256.87 
+" style="fill: none; stroke: #000000; stroke-width: 0.5; stroke-linejoin: miter; stroke-linecap: square"/>
+   </g>
+   <g id="text_21">
+    <text style="font-weight: 700; font-size: 8px; font-family: 'Helvetica', 'Helvetica Neue', 'Arial', 'Nimbus Sans', 'Liberation Sans', 'DejaVu Sans', sans-serif; text-anchor: middle" x="295.87625" y="6.47" transform="rotate(-0 295.87625 6.47)">FEDFUNDS</text>
+   </g>
+  </g>
+ </g>
+ <defs>
+  <clipPath id="p7b34f8f45c">
+   <rect x="16.87625" y="10.47" width="558" height="246.4"/>
+  </clipPath>
+ </defs>
+</svg>
