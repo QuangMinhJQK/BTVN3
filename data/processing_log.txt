@@ -1,0 +1,29 @@
+BÁO CÁO TIỀN XỬ LÝ BSR - VN-INDEX
+Ngày chạy: 2026-09-30 17:36:03
+Ngày truy cập nguồn: 2026-09-30
+Khoảng yêu cầu: 2024-01-01 đến 2026-09-25
+
+Đối tượng: Y = BSR, Công ty Cổ phần Lọc Hóa dầu Bình Sơn, Energy / Oil & Gas / Refining & Petrochemicals.
+BSR: giao dịch trên HOSE trong giai đoạn sau khi chuyển niêm yết từ UPCOM sang HOSE.
+Đối tượng: X = VN-Index, chỉ số giá thị trường cổ phiếu tại HOSE; VN-Index không phải một sàn giao dịch.
+Nguồn BSR: Investing.com - https://www.investing.com/equities/binh-son-refining-and-petrochemical-historical-data
+Nguồn VN-Index: Investing.com - https://www.investing.com/indices/vn
+Loại giá: dùng cột Price của Investing.com cho cả hai chuỗi; đây là giá đóng cửa, không phải Adjusted Close.
+Đơn vị: BSR = VND/cổ phiếu; VN-Index = điểm chỉ số.
+
+Kiểm tra dữ liệu:
+BSR: {'raw_rows': 670, 'invalid_dates': 0, 'invalid_prices': 0, 'non_positive_prices': 0, 'duplicate_rows': 0, 'rows_in_range': 670, 'first_session': '2024-01-02', 'last_session': '2026-09-25', 'is_ascending': True}
+VN-Index: {'raw_rows': 678, 'invalid_dates': 0, 'invalid_prices': 0, 'non_positive_prices': 0, 'duplicate_rows': 0, 'rows_in_range': 678, 'first_session': '2024-01-02', 'last_session': '2026-09-25', 'is_ascending': True}
+01/01/2024 là ngày lễ; phiên đầu thực tế: BSR=2024-01-02, VN-Index=2024-01-02.
+25/09/2026: phiên cuối thực tế: BSR=2026-09-25, VN-Index=2026-09-25.
+Ngày VN-Index có nhưng BSR không có: 8 ngày.
+Các ngày thiếu không tự động được kết luận là BSR tạm ngừng giao dịch; có thể do lịch thị trường hoặc dữ liệu nguồn.
+Danh sách ngày VN-Index có nhưng BSR thiếu: 2025-01-07, 2025-01-08, 2025-01-09, 2025-01-10, 2025-01-13, 2025-01-14, 2025-01-15, 2025-01-16
+
+Số phiên BSR sau lọc: 670
+Số phiên VN-Index sau lọc: 678
+Số ngày bị loại khi đồng bộ: BSR-only=0, VNINDEX-only=8
+N quan sát giá dùng chung: 670.
+Không nội suy và không forward-fill ngày thiếu; log return sẽ được tính ở notebook.
+
+Đầu ra: cleaned_aligned_prices.csv, processing_log.txt
